@@ -1,0 +1,41 @@
+Java ---> Programming Language
+
+Java 1.8  JDK 8, ✅
+Java 11 ✅
+Notepad++ ✅
+
+https://notepad-plus-plus.org/downloads/v8.6/
+
+Eclipse
+
+
+Run A Java Code:
+1. Compilation
+Main.java --- javac Main.java ----> Main.class
+2. Execution
+Main.class --- java Main ----> o/p
+Yhills
+
+
+Eclipse
+1. Create a Java Project
+2. Creat a package
+
+google.com 
+
+com.google.api
+
+
+com.java.basics
+com
+> java
+	>basics
+		Main.java	
+
+codecounty.dev
+dev.codecounty.
+
+stibo.com
+com.stibo.core.....
+
+
