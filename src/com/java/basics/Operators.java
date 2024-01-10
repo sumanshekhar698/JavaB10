@@ -41,9 +41,30 @@ public class Operators {
 		s = (short) (s + 6);
 		System.out.println(s);
 
-		b = -128;//Rotate
+		b = -128;// Rotate
 		b -= 500;
 		System.out.println(b);
+
+//		Shorthand Operators
+		int dozen = 0;
+//		dozen = dozen + 12;
+		dozen += 12;
+		dozen %= 3;
+
+//		Comparison Operators  >  <   == != >= <= !
+		if (dozen % 2 == 0)
+			System.out.println("EVEN");
+		else
+			System.out.println("ODD");
+
+//		BitWise Operator
+		System.out.println(8 & 12);// BIT WISE AND OPERATOR
+		System.out.println(8 | 12);// BIT WISE OR OPERATOR
+		System.out.println(8 ^ 12);// BIT WISE XOR OPERATOR
+		System.out.println(~8);// BIT WISE NOT OPERATOR
+
+		System.out.println(8999 ^ 8999);// BIT WISE XOR OPERATOR 0
+
 	}
 
 }
