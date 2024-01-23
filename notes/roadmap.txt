@@ -1,0 +1,41 @@
+
+Java
+DSA
+
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+https://leetcode.com/studyplan/top-interview-150/
+
+Spring:
+CORE
+JDBC
+ORM
+MVC
+
+SpringBoot:
+Make a REST API APP
+SPRING DATA JPA
+SECURE IT VIA SPRING SECURITY
+
+Dropwizard:
+
+
+OS, NETWORKING
+
+Build a webapp (Client Servber Model)
+
+SYSTEM DESIGN
+URL SHORTENER
+RATE LIMITING
+SWIGGY ESTIMATED DELIVERY TIME
+
+MACHINE CODING
+Design/Code an Elevator System
+Design/Code a Playing Cards Game
+
+Like 200 photos in an hour
+
+C++
+
+
+JS(React) >= Java(Spring) > Python> C++ > PHP
