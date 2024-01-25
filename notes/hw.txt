@@ -1,0 +1,10 @@
+Employee
+
+id, name, and salary
+id to be autogenrated
+
+
+id
+//EMP1
+//EMP2
+//EMP3
