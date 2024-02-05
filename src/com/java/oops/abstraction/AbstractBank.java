@@ -3,7 +3,7 @@ package com.java.oops.abstraction;
 import java.util.Date;
 import java.util.logging.Logger;
 
-public abstract class AbstractBank {
+public abstract class AbstractBank {//An abstract class can have 0 or more abstratc methods
 	private static final Logger log = Logger.getLogger(AbstractBank.class.getName());
 
 	String nameOfBank;
